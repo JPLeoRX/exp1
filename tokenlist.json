@@ -1,0 +1,19 @@
+{
+  "name": "USDT",
+  "timestamp": "2026-11-10T12:11:49.398Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x93f8fbC27E14C090E4023E6725D5aAae31310e18",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://jpleorx.github.io/exp1/ethereum/0x93f8fbC27E14C090E4023E6725D5aAae31310e18/logo.png"
+    }
+  ]
+}

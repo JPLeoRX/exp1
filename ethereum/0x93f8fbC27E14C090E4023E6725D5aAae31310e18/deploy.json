@@ -1,0 +1,12 @@
+{
+  "chainId": 11155111,
+  "address": "0x93f8fbC27E14C090E4023E6725D5aAae31310e18",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "initialSupplyRaw": "100000000000000000",
+  "initialReceiver": "0x47030D7C668182AF6d5143E01aB4C87Fa687791a",
+  "owner": "0x47030D7C668182AF6d5143E01aB4C87Fa687791a",
+  "transactionHash": "0x7a0ef04b3b8664f82c6ed672e2dd2cff22c94f11be84ecd82fabe4f3fb758ffc",
+  "logoURI": "https://jpleorx.github.io/exp1/ethereum/0x93f8fbC27E14C090E4023E6725D5aAae31310e18/logo.png"
+}
