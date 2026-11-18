@@ -1,0 +1,16 @@
+{
+  "cluster": "devnet",
+  "genesisHash": "EtWTRABZaYq6iMfeYKouRu166VU2xqa1wcaWoxPkrZBG",
+  "programId": "GpkX5byhVWMjUCJJ6MnvQakSmNrT4tmMyzgeKthvLxch",
+  "mint": "2sHFEgJvo1dHhCBt6T5E1pP1nT2QdFD5QpZsTLwrunYZ",
+  "name": "North Dollar",
+  "symbol": "NDT",
+  "decimals": 6,
+  "initialSupplyRaw": "100000000000000000",
+  "initialReceiver": "EGhJrhzhApb1tuLsmcdJGAudPoBEABXbpjvfQ6GkB9mN",
+  "owner": "EGhJrhzhApb1tuLsmcdJGAudPoBEABXbpjvfQ6GkB9mN",
+  "signature": "2aN2A9VxLedQzDuYCyHWrQE8T2octDFkyjuhddeULSXtNaisiLbys1Tm6camD8S3xjH8LaNn4TmsgHQfTXjfyEV2",
+  "supplySignature": "2pUH3TZxH6hNiULSh7z7ixsFunn23azQExtoQx6qYTZVLvT3Xk8QgggMV2JdSPowL7WZEmHP3S13RtFyDXSsoJrU",
+  "logoURI": "https://jpleorx.github.io/exp1/solana/2sHFEgJvo1dHhCBt6T5E1pP1nT2QdFD5QpZsTLwrunYZ/logo.png",
+  "metadataUri": "https://jpleorx.github.io/exp1/solana/2sHFEgJvo1dHhCBt6T5E1pP1nT2QdFD5QpZsTLwrunYZ/metadata.json"
+}
